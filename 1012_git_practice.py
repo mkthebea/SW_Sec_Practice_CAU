@@ -6,5 +6,7 @@
 # reset은 확실하게 되돌아갈 수 있는 방법이지만 모든 기록을 없애는 작업이기 때문에 사용할 때 항상 주의를 기울여야 함
 
 # pull 실습: 여기서 수정하고 clone_test에서 pull 해보기!!
+# pull = fetch + merge
+# => 버전이 다르면 에러 남
 
 # fetch 실습: 여기서 수정하고 clone_test에서 fetch 해보기!!
